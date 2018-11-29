@@ -1,0 +1,24 @@
+F:\.Net (BITM)\project\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll
+F:\.Net (BITM)\project\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.pdb
+F:\.Net (BITM)\project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+F:\.Net (BITM)\project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.dll
+F:\.Net (BITM)\project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+F:\.Net (BITM)\project\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll.config
+C:\Users\siddi\Downloads\StockManagementSystem-master\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll.config
+C:\Users\siddi\Downloads\StockManagementSystem-master\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll
+C:\Users\siddi\Downloads\StockManagementSystem-master\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.pdb
+C:\Users\siddi\Downloads\StockManagementSystem-master\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\siddi\Downloads\StockManagementSystem-master\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.dll
+C:\Users\siddi\Downloads\StockManagementSystem-master\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+F:\NEW\StockManagementSystem-master\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll.config
+F:\NEW\StockManagementSystem-master\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll
+F:\NEW\StockManagementSystem-master\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.pdb
+F:\NEW\StockManagementSystem-master\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+F:\NEW\StockManagementSystem-master\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.dll
+F:\NEW\StockManagementSystem-master\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+E:\StockManagementSystem-master\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll.config
+E:\StockManagementSystem-master\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll
+E:\StockManagementSystem-master\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.pdb
+E:\StockManagementSystem-master\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+E:\StockManagementSystem-master\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.dll
+E:\StockManagementSystem-master\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
